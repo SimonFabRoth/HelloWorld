@@ -1,4 +1,4 @@
-# hello-world2
+# HelloWorld
 
 
 This is my first github attempt
